@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.PNG" alt="Banner de presentación" />
+  <img src="banner.png" alt="Banner de presentación" />
 </p>
 
 <h1 align="center">👋 ¡Hola, soy Luis Miraglio!</h1>
