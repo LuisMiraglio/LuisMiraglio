@@ -5,7 +5,7 @@
 <h1 align="center">👋 ¡Hola, soy Luis Miraglio!</h1>
 
 <p align="center">
-  🧰 Full Stack Developer · Automatizador de Procesos · Creador de Herramientas para Empresas Técnicas
+  🧰 Full-Stack Developer | Building Complete Web Applications with Real-World Imapct
 </p>
 
 ---
