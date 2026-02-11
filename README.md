@@ -1,4 +1,4 @@
-##Buenas! Soy Luis Miraglio <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40" />
+## Buenas! Soy Luis Miraglio <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40" />
 
 ⚡ Actualmente me desempeño como desarrollador full stack, enfocado en el desarrollo de soluciones funcionales y en el aprendizaje continuo para mejorar mi nivel técnico cada día.
 
