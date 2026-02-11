@@ -24,8 +24,8 @@
 
 ### 📈 Mis stats en GitHub
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuisMiraglio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMiraglio&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LuisMiraglio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&v=1"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMiraglio&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800&v=1"/>
 </div>
 
 ---
@@ -38,5 +38,7 @@
   <a href="mailto:miraglioluis1@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="<https://www.instagram.com/luis_miraglio/>" target="_blank"><img src="<https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white>" target="_blank"></a>
+  <a href="https://www.instagram.com/luis_miraglio/" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 </div>
